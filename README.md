@@ -1,5 +1,4 @@
 
-python run.py [options]
 
 -h, --help                                                                 show this help message and exit
 -s SOURCE_PATH, --source SOURCE_PATH                                       select an source image
@@ -22,10 +21,4 @@ python run.py [options]
 --execution-threads EXECUTION_THREADS                                      number of execution threads
 -v, --version                                                              show program's version number and exit
 ```
-
-
-
-
-## Licenses
-
-Our software uses a lot of third party libraries as well pre-trained models. The users should keep in mind that these third party components have their own license and terms, therefore our license is not being applied.
+ 
